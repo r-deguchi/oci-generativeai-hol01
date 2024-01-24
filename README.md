@@ -1,7 +1,7 @@
 # PoCテストケース
 RAG構成のパーツとなる以下2項目の処理のフローを理解する
 - Generative AIサービスでの埋め込み処理
-- AI Vector Search LA1での類似検索
+- AI Vector Search LA1でのセマンティック検索
 
 ![image](https://github.com/kenkensonson/oci-generativeai-hol01/assets/30405234/9efcfaf0-8cfa-413d-898f-577d0ac3b4f7)
 
@@ -51,5 +51,5 @@ GenAI 埋め込み処理で得られたベクトルデータをOracle Database�
 クエリ用のテキストのうめ込みベクトルを生成します。
 
 
-# 類似検索
+# セマンティック検索の実行
 
