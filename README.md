@@ -9,9 +9,9 @@ RAG構成のパーツとなる以下2項目の処理のフローを理解する
 
 
 # ①テスト環境のプロビジョニング
-### Oracle Database用 compute インスタンス
-### AI Vector Search
-### Generative AI Service
+### Oracle Database用 compute インスタンス -> 出口さん
+### AI Vector Search　-> 出口さん
+### Generative AI Service　-> 園田
 
 
 
